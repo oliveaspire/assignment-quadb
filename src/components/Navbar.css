@@ -1,0 +1,25 @@
+.container-fluid{
+    margin-left: 100px;
+    background-color: white;
+}
+.navbar-brand{
+    color: black;
+    font-size: 26px;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-left: 300px;
+    text-align: center;
+    font-size: 16px;
+}
+.navbar-nav li{
+    margin: 10px;
+}
+.nav-icons{
+    margin-right: 100px;
+    margin: 5px;
+  
+}
+.nav-icons span{
+    margin:20px;
+}
